@@ -9,12 +9,12 @@
 
 <div align="center">
   
-  <h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/JAVASCRIPT-FFFF00?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
-  <img src="https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat-square&logo=ros&logoColor=white"/></a> &nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat-square&logo=ros&logoColor=white" height="20"/></a>&nbsp 
   <br>
 </p>
 
